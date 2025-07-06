@@ -4,7 +4,7 @@ Welcome to the **Amazon Clone** project!
 This web application replicates the core functionality and UI of Amazon, with added features like user authentication, product listings, and a personalized **product recommendation system** using **machine learning**.
 
 ### 🏠 Home Page
-(![Screenshot 2025-07-06 180321](https://github.com/user-attachments/assets/4bcf1212-4f54-4265-95a7-ee6dec8c6a72)
+![Screenshot 2025-07-06 180321](https://github.com/user-attachments/assets/4bcf1212-4f54-4265-95a7-ee6dec8c6a72)
 
 ---
 
@@ -127,7 +127,7 @@ Products are ranked based on similarity scores. The **Top 5** results include:
 
 ---
 
-##✨ Future Improvements
+## ✨ Future Improvements
 
 - Use transformers or sentence embeddings for better NLP-based recommendations.
 
