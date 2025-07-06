@@ -47,8 +47,8 @@ The Recommendation System in this Amazon Clone allows users to enter a **keyword
 
 
 ### 🔍 Search & Recommendations
-![Search](![Screenshot 2025-07-06 180741](https://github.com/user-attachments/assets/b0e18fe7-2643-4609-af8b-6a1092e9db7e)
-)
+(![Screenshot 2025-07-06 180741](https://github.com/user-attachments/assets/b0e18fe7-2643-4609-af8b-6a1092e9db7e)
+
 ---
 
 ### 🔍 How It Works — Under the Hood
@@ -129,6 +129,8 @@ Products are ranked based on similarity scores. The **Top 5** results include:
 
 ##✨ Future Improvements
 
--Use transformers or sentence embeddings for better NLP-based recommendations
--Add user history-based collaborative filtering
--Add cart, payment, and order tracking modules 
+-Use transformers or sentence embeddings for better NLP-based recommendations.
+
+-Add user history-based collaborative filtering.
+
+-Add cart, payment, and order tracking modules. 
